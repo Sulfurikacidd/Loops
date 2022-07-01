@@ -4,6 +4,7 @@
 //
 //  Created by Muhammad Talal on 2022-06-19.
 //
+// Read me.
 
 /*
  While loop: use while loop when you don't know the number of iterations. While a condition is True the loop keeps on running.
@@ -19,6 +20,10 @@
  for(counter;condition;updation) {process}
  Steps:
  1. Counter 2. Condition 3. Process 4. Updation 5. Condition 6. Process 7. Updation 8. Check (if false exit)
+ 
+ For each loop: use this loop to iterate through Arrays.
+ Skeleton:
+ for (x : array) { process } where x is each element of array as loop iterates through it.
  */
 
 //#include "iostream"
